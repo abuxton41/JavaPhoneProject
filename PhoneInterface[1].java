@@ -1,4 +1,4 @@
- //Authors: Gianna Ritzko & Andrew Buxton
+ //Authors: Andrew Buxton
 /**
  *Interface that the classes implement. Declares method signatures.
  */
