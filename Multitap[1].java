@@ -1,4 +1,4 @@
- //Authors: Gianna Ritzko & Andrew Buxton
+ //Authors: Andrew Buxton
 public class Multitap implements PhoneInterface   {
 		   protected String[] keys = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz","","  ","  "};
            private int lastKey=-1;
