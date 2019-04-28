@@ -1,4 +1,4 @@
- //Authors: Gianna Ritzko & Andrew Buxton
+ //Author: Andrew Buxton
 /**
  * This class implements a digits-only entry method for our
  * cellphone keypad.  When keys are pressed, we need to
