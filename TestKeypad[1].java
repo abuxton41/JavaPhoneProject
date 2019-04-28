@@ -1,4 +1,4 @@
- //Authors: Gianna Ritzko & Andrew Buxton
+ //Authors: Andrew Buxton
 /**
  * This test class creates a new keypad that uses an instance of
  * the Digits class to map key presses to characters (digits).
