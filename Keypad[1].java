@@ -8,7 +8,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
-//Authors: Gianna Ritzko & Andrew Buxton
+//Authors: Andrew Buxton
 /**
  * The Keypad class models a cellphone keypad and display.
  *
