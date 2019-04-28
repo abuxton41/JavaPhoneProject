@@ -1,4 +1,4 @@
- //Authors: Gianna Ritzko & Andrew Buxton
+ //Authors: Andrew Buxton
 public class ReorderedMultitap extends Multitap {
 /**
  * The constructor for this class allows for keys in Multitap to be overwritten for a Reordered entry method
